@@ -1,7 +1,7 @@
-Aloha plugin: help button
-=========================
+Aloha plugin: image bank
+========================
 
-This plugin enables basic images manipulations in the [Aloha Editor](http://www.aloha-editor.org/).
+This plugin enables basic image manipulations in the [Aloha Editor](http://www.aloha-editor.org/).
 
 
 License
