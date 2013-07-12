@@ -1,8 +1,19 @@
-Based on:
+Aloha plugin: help button
+=========================
 
-Image Plugin for enabling basic images manipulations in Aloha HTML5 Editor
+This plugin enables basic images manipulations in the [Aloha Editor](http://www.aloha-editor.org/).
+
+
+License
+=======
+
+Based on the work of:
 
 Copyright (c) 2010 by Nicolas Karageuzian - http://nka.me/
 Copyright (c) 2010 by Benjamin Athur Lupton - http://www.balupton.com/
 
+And copyright (c) 2013 [Recess Mobile](http://recess.im/).
+
+
 Licensed under the terms of AGPL - http://www.gnu.org/licenses/agpl-3.0.html
+
